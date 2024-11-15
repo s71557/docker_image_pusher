@@ -1,3 +1,35 @@
-smallfawn/jdjdjd:latest
---platform=linux/arm64 smallfawn/jdjdjd:latest
 --platform=linux/amd64 smallfawn/jdjdjd:latest
+
+--platform=linux/amd64 containrrr/watchtower:latest
+
+--platform=linux/amd64 youshandefeiyang/allinone:latest
+
+youshandefeiyang/av3a-assistant:amd64
+
+--platform=linux/amd64 dsmggm/autojdck:latest
+
+--platform=linux/amd64 taksss/php-epg:latest
+
+--platform=linux/amd64 yanyuwangluo/jd-sign:latest
+
+--platform=linux/amd64 seansuny/jd_h5st_server:latest
+
+--platform=linux/amd64 jaaksi/sublinkx:latest
+
+--platform=linux/amd64 qdtoday/qd:latest
+
+--platform=linux/amd64 louislam/uptime-kuma:1
+
+--platform=linux/amd64 looby/aliyundrive-subscribe:latest
+
+--platform=linux/amd64 anmour/bncr:latest
+
+--platform=linux/amd64 ht944/rabbitpro:latest
+
+--platform=linux/amd64 linuxserver/heimdall:latest
+
+--platform=linux/amd64 whyour/qinglong:latest
+
+--platform=linux/amd64 whyour/qinglong:debian
+
+--platform=linux/amd64 cnk3x/xunlei:latest
