@@ -33,3 +33,7 @@ youshandefeiyang/av3a-assistant:amd64
 --platform=linux/amd64 whyour/qinglong:debian
 
 --platform=linux/amd64 cnk3x/xunlei:latest
+
+--platform=linux/amd64 miku8miku/xsign:latest
+
+--platform=linux/amd64 msconli/elm-xsign:1.0.3
