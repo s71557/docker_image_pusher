@@ -2,10 +2,6 @@
 
 --platform=linux/amd64 youshandefeiyang/allinone:latest
 
-youshandefeiyang/av3a-assistant:amd64
-
---platform=linux/amd64 dsmggm/autojdck:latest
-
 --platform=linux/amd64 taksss/php-epg:latest
 
 --platform=linux/amd64 yanyuwangluo/jd-sign:latest
