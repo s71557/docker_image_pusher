@@ -6,8 +6,6 @@
 
 --platform=linux/amd64 yanyuwangluo/jd-sign:latest
 
---platform=linux/amd64 seansuny/jd_h5st_server:latest
-
 --platform=linux/amd64 jaaksi/sublinkx:latest
 
 --platform=linux/amd64 qdtoday/qd:latest
